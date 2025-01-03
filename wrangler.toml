@@ -1,4 +1,4 @@
-#:schema node_modules/wrangler/config-schema.jsons
+#:schema node_modules/wrangler/config-schema.jsonsa
 name = "holy-pine-f07c-1"
 main = "src/index.ts"
 compatibility_date = "2024-08-15"
