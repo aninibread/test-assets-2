@@ -9,6 +9,7 @@ workers_dev = true
 
 [env.staging]
 name = "anni-staging"
+name = "blah-blah"
 
 # Automatically place your workloads in an optimal location to minimize latency.s
 # If you are running back-end logic in a Worker, running it closer to your back-end infrastructure
