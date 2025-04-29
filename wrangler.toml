@@ -8,7 +8,7 @@ compatibility_flags = ["nodejs_compat"]
 workers_dev = true
 
 [env.staging]
-name = "anni-staging"
+name = "holy-pine-f07c-1"
 
 # Automatically place your workloads in an optimal location to minimize latency.ss
 # If you are running back-end logic in a Worker, running it closer to your back-end infrastructure
